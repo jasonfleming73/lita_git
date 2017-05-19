@@ -1,3 +1,5 @@
 Libraries with banned book pages
 
 Marshall University: http://www.marshall.edu/library/bannedbooks/
+
+DC Public Library: https://www.dclibrary.org/bannedbooks
